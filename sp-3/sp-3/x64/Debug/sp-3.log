@@ -1,0 +1,3 @@
+﻿  sp-3.cpp
+C:\Users\Desktop_01\Desktop\sp\sp-3\sp-3\sp-3.cpp(6,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  sp-3.vcxproj -> C:\Users\Desktop_01\Desktop\sp\sp-3\x64\Debug\sp-3.exe
